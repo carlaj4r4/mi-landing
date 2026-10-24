@@ -1,1 +1,2 @@
 # mi-landing
+<!DOCTYPE html> <html> <head><title>Mi landing page</title></head> <body><h1>¡Hola, mundo!</h1></body> </html>
